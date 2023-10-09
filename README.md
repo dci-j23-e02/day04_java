@@ -1,5 +1,3 @@
-# day4_java
-
 ## User Input with CLI
 ### Scanner
 
